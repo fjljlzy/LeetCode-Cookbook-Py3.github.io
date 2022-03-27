@@ -7,7 +7,7 @@ lcurl:      backspace-string-compare
 youtube:    
 bilibili1:  
 xigua:      
-date:       2020-04-26 #1
+date:       2020-04-26
 author:     小明MaxMing
 header-img: img/post-bg-coffee.jpeg
 catalog: false
