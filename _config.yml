@@ -48,7 +48,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: e3db55a79ff1b59e164a     #生成的clientID
   clientSecret: 2ef0b79efc90e901a99c2dc46b67e5d738ee895e    #生成的clientSecret
-  repo: fjljlzy/LeetCode-Cookbook-Py3.github.io    #仓库名称
+  repo: fjljlzy.github.io/LeetCode-Cookbook-Py3.github.io    #仓库名称
   owner: fjljlzy    #github用户名
   admin: fjljlzy
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
