@@ -6,7 +6,7 @@ description: ""
 keyword: ""
 url: "https://fjljlzy.github.io/LeetCode-Cookbook-Py3.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/fjljlzy/LeetCode-Cookbook-Py3.github.io.git" # you code repository
+github_repo: "https://github.com/fjljlzy/LeetCode-Cookbook-Py3.github.io" # you code repository
 
 # SNS settings
 RSS: false
