@@ -4,8 +4,8 @@ SEOTitle: fjljlzy
 header-img: img/post-bg-desk.jpg
 description: ""
 keyword: ""
-url: "https://fjljlzy.github.io/LeetCode-Cookbook-Py3.github.io"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+url: "https://fjljlzy.github.io"          # your host, for absolute URL
+baseurl: "/LeetCode-Cookbook-Py3.github.io"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/fjljlzy/LeetCode-Cookbook-Py3.github.io" # you code repository
 
 # SNS settings
