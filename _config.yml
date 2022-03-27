@@ -1,17 +1,15 @@
 # Site settings
-title: 小明MaxMing
-SEOTitle: 小明MaxMing
+title: LeetCode Cookbook Python3
+SEOTitle: fjljlzy
 header-img: img/post-bg-desk.jpg
 description: ""
 keyword: ""
-url: "http://MaxMing0.github.io"          # your host, for absolute URL
+url: "https://fjljlzy.github.io/LeetCode-Cookbook-Py3.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/MaxMing0/MaxMing0.github.io.git" # you code repository
-
+github_repo: "https://github.com/fjljlzy/LeetCode-Cookbook-Py3.github.io.git" # you code repository
 
 # SNS settings
 RSS: false
-
 
 
 # Build settings
@@ -50,9 +48,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: e3db55a79ff1b59e164a     #生成的clientID
   clientSecret: 2ef0b79efc90e901a99c2dc46b67e5d738ee895e    #生成的clientSecret
-  repo: MaxMing0.github.io    #仓库名称
-  owner: MaxMing0    #github用户名
-  admin: MaxMing0
+  repo: fjljlzy/LeetCode-Cookbook-Py3.github.io    #仓库名称
+  owner: fjljlzy    #github用户名
+  admin: fjljlzy
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
