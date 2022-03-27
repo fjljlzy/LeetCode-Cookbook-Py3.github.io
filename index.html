@@ -35,7 +35,7 @@ description: ""
     {% for post in sorted %}
     <tr>
         <td>
-            <a href="https://leetcode.com/problems/{{ post.lcurl }}"> {{ post.number }} </a>
+            <a href="https://leetcode-cn.com/problems/{{ post.lcurl }}"> {{ post.number }} </a>
         </td>
         <td>
             <a href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }}</a>
