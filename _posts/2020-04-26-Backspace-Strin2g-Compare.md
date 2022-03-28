@@ -1,13 +1,13 @@
 ---
 layout:     post
 title:      LeetCode 844 Backspace String Compare (Python)
-number:     844
+number:     845
 level:      Easy
 lcurl:      backspace-string-compare
 youtube:    
 bilibili1:  
 xigua:      
-date:       2020-04-26
+date:       2020-04-26 #1
 author:     小明MaxMing
 header-img: img/post-bg-coffee.jpeg
 catalog: false
