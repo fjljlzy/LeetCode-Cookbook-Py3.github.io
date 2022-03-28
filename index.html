@@ -31,7 +31,10 @@ description: ""
         <th>题解</th>
         <th>难度</th>
     </tr>
+    {% assign sorted = paginator.posts %}
+    {% if sorted %}
     {% assign sorted = (paginator.posts | sort: 'number') %}
+    {% endif %}
     {% for post in sorted %}
     <tr>
         <td>
