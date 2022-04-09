@@ -1,3 +1,5 @@
+    
+
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -6,6 +8,11 @@
     <meta name="description" content="{{ site.description }}">
     <meta name="keywords"  content="{{ site.keyword }}">
     <meta name="theme-color" content="{{ site.chrome-tab-theme-color }}">
+
+    <!-- Mathjax Support -->
+    <script type="text/javascript" async
+    src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
 
     <title>{% if page.title %}{{ page.title }} - {{ site.SEOTitle }}{% else %}{{ site.SEOTitle }}{% endif %}</title>
 
@@ -53,4 +60,5 @@
     <!-- ga & ba script hoook -->
     <script data-ad-client="ca-pub-9934872681409317" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <script></script>
+
 </head>
