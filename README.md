@@ -12,6 +12,6 @@ bundle exec jekyll serve
 - 双指针: Two Pointers
 - 哈希表: Hash Table
 - 链表: Linked List
-
+- 二分查找: Binary Search
 
 博客模板 (Jekyll) 主要基于 huxpro 和 maxming0 分享的模板，感谢~
